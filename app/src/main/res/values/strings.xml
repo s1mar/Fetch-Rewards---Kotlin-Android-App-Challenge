@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Fetch Rewards Challenge</string>
+    <string name="splash_title_demo_firing_up">Demo Firing Up</string>
+    <string name="debug_next_act">Launching next activity</string>
+    <string name="content_desc_back_button">Back button</string>
+    <string name="item_list">Item List</string>
+</resources>
